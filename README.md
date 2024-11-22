@@ -1,3 +1,2 @@
 Hi, I’m @chaitanya-p23
-- I’m interested in coding.
-- I’m currently learning web dev.
+More about me: https://chaitanya23.netlify.app
